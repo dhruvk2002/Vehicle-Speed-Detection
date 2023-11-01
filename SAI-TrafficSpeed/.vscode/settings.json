@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./YOLOv8-DeepSORT-Object-Tracking/ultralytics/yolo/v8/detect"
+    ]
+}
